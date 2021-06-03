@@ -1,2 +1,2 @@
 # simply-land
-Website with tailwind css
+Website project, html + tailwind css
